@@ -1,9 +1,13 @@
 **Análisis de estudiantes en carreras de informática**
  
 El siguiente proyecto fue elaborado en marco de un curso de la empresa Quales Group, donde se pusieron en ejecución buenas prácticas al hacer un tablero como: 
+
 • Limpieza de datos
+
 • Marcadores
+
 • Última actualización
+
 • Limpieza de filtros
 
 <p align="center">
