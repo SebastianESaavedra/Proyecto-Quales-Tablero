@@ -1,4 +1,4 @@
-**Análisis de estudiantes en carreras de informática**
+**Análisis estudiantil en carreras de informática**
  
 <p align="center">
 <img align="center" alt="tablero1" width="400" src="https://github.com/SebastianESaavedra/Proyecto-Quales-Tablero/blob/main/tablero%20estudiantes%20it.png">
